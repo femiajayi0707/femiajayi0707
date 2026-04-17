@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Femi
 
-<!--
-**femiajayi0707/femiajayi0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science with AI student at Swansea University, building things that sit at the intersection of technology and human experience.
 
-Here are some ideas to get you started:
+I'm drawn to questions like: how do you make a system feel intuitive? What does good data actually look like to the person reading it? How do you design an interaction that people don't have to think about?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my projects start from curiosity about a real problem, then I build my way toward an answer.
+
+
+
+What I have been building
+
+A machine learning classifier that detects Parkinson's disease indicators from vocal biomarker data, exploring how AI can surface patterns invisible to the human eye
+
+An automated stock analysis pipeline that ingests and processes financial data, with a focus on presenting insights clearly and usefully
+
+A rule-based conversational agent,an early dive into how language, structure, and interaction design shape the way a product feels to use
+
+A personal website** built from scratch in HTML and CSS
+
+
+
+Interests
+`Machine Learning`, User Experience` `AI` `Data` `Human-Computer Interaction` `Product Design`
+
+
+Tech
+
+`Python` `Java` `scikit-learn` `HTML/CSS` `Git` `Linux` `Bash`
+
+
+
+Get in touch
+
+femidavid0707@gmail.com
+
